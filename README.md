@@ -8,7 +8,7 @@ This project includes a Node.js server and a React web application.
 - Docker Compose
 
 ## Project Structure
-.
+```.
 ├── README.md
 ├── docker-compose.yml
 ├── server
@@ -21,7 +21,7 @@ This project includes a Node.js server and a React web application.
 │ └── ...
 ├── public
 │ └── ...
-└── Dockerfile
+└── Dockerfile```
 
 ## Instructions to run the project
 
